@@ -1,0 +1,1 @@
+output gap euro = realdat(:,1);
